@@ -1,7 +1,13 @@
 {
   "name": "dont-know-dev",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "Miguelo Ramírez",
+  "engines": {
+    "node": ">=20",
+    "pnpm": ">=8"
+  },
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
