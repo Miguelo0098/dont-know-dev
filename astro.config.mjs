@@ -8,6 +8,5 @@ import netlify from "@astrojs/netlify";
 export default defineConfig({
   site: "https://dontknow.dev",
   integrations: [mdx(), sitemap()],
-  output: "server",
-  adapter: netlify()
+  adapter: netlify(),
 });
