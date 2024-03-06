@@ -11,7 +11,7 @@ This post will share my experience building a blog using Astro, from generating 
 
 ## What is Astro?
 
-"The web framework for content-driven websites". That is how the Astro website describes it. You can create anything, like a landing page or client-side web applications. It reduces JavaScript overhead and complexity compared to other frameworks because it renders as much as possible on the server.
+"The web framework for content-driven websites". That is how the Astro website describes it. You can create anything, like a landing page or complex web applications. It reduces JavaScript overhead and complexity compared to other frameworks because it renders as much as possible on the server.
 
 An amazing thing I discovered about Astro is that you can still use any UI framework you like, such as React, Svelte, or Vue (you can even mix them!). It helps a lot when migrating from other frameworks, making Astro appealing to curious devs who want to try it out.
 
@@ -109,6 +109,8 @@ After that, you can set up the deployment using the Netlify website or the CLI w
 
 ## Conclusion
 
-It is surprisingly simple to build stuff with Astro. There are no limits to what you can do with it. The docs are very well structured and provide a lot of guides, resources, and API references. I'm definitely going to use it more often in the future to build apps.
+It is surprisingly simple to build stuff with Astro. There are no limits to what you can do with it. The docs are very well structured and provide a lot of guides, resources, and API references. I'll use it more often in the future to build apps.
+
+You can check the source code on its [GitHub repo](https://github.com/Miguelo0098/dont-know-dev).
 
 What do you think about Astro? What has been your experience so far? Feel free to let me know!
