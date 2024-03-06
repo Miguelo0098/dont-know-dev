@@ -109,7 +109,7 @@ After that, you can set up the deployment using the Netlify website or the CLI w
 
 ## Conclusion
 
-It is surprisingly simple to build stuff with Astro. There are no limits to what you can do with it. The docs are very well structured and provide a lot of guides, resources, and API references. I'll use it more often in the future to build apps.
+It is surprisingly simple to build stuff with Astro. There are no limits to what you can do with it. The docs are very well structured and provide a lot of guides, resources, and API references.
 
 You can check the source code on its [GitHub repo](https://github.com/Miguelo0098/dont-know-dev).
 
