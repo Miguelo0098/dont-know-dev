@@ -1,8 +1,8 @@
 ---
 title: "You can’t run away from runtime errors using TypeScript"
-description: "This post will explain why runtime errors happen when working with external data sources (even using TypeScript) and what we can do as developers to avoid these problems."
+description: "This post will explain why runtime errors happen when working with external data sources using TypeScript and what we can do as developers to avoid these problems."
 pubDate: "Mar 12 2024"
-heroImage: "/blog-placeholder-1.jpg"
+heroImage: "/blog-placeholder-2.jpg"
 ---
 
 TypeScript helps a lot when dealing with type errors at compile time. However, form inputs or third-party API responses can cause runtime errors if the types don't match.
@@ -111,4 +111,4 @@ The `parse` method still throws errors at runtime when validation fails. But com
 
 We are not safe from runtime errors when using TypeScript. Luckily, there are libraries like Zod that provide solutions to minimize them.
 
-Has this problem ever happened to you? Did you use a similar library to handle it? What has been your experience using Zod? Please let me know and **type safely**.
+Has this problem ever happened to you? Did you use a similar library to handle it? What has been your experience using Zod? Please let me know and _type safely_.
